@@ -24,7 +24,7 @@ yarn test
 
 ## API Endpoints
 
-POST http://localhost:3001/carbon-emission-calculator - calculate carbon emission:
+POST http://localhost:3001/carbon-emission-calculator - calculate carbon emission for the categories (Electricity and Natural Gas):
 
 ### Body
 ```
